@@ -1,0 +1,12 @@
+C:\Users\Waiwa\source\repos\GymGold\Soporte\bin\Debug\Soporte.dll
+C:\Users\Waiwa\source\repos\GymGold\Soporte\bin\Debug\Soporte.pdb
+C:\Users\Waiwa\source\repos\GymGold\Soporte\obj\Debug\Soporte.csprojAssemblyReference.cache
+C:\Users\Waiwa\source\repos\GymGold\Soporte\obj\Debug\Soporte.csproj.CoreCompileInputs.cache
+C:\Users\Waiwa\source\repos\GymGold\Soporte\obj\Debug\Soporte.dll
+C:\Users\Waiwa\source\repos\GymGold\Soporte\obj\Debug\Soporte.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Soporte\bin\Debug\Soporte.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Soporte\bin\Debug\Soporte.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Soporte\obj\Debug\Soporte.csproj.AssemblyReference.cache
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Soporte\obj\Debug\Soporte.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Soporte\obj\Debug\Soporte.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Soporte\obj\Debug\Soporte.pdb

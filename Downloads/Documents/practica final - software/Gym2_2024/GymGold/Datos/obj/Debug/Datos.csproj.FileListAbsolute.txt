@@ -1,0 +1,27 @@
+C:\Users\Waiwa\source\repos\GymGold\Datos\bin\Debug\Datos.dll
+C:\Users\Waiwa\source\repos\GymGold\Datos\bin\Debug\Datos.pdb
+C:\Users\Waiwa\source\repos\GymGold\Datos\bin\Debug\Soporte.dll
+C:\Users\Waiwa\source\repos\GymGold\Datos\bin\Debug\Soporte.pdb
+C:\Users\Waiwa\source\repos\GymGold\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Waiwa\source\repos\GymGold\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Waiwa\source\repos\GymGold\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Waiwa\source\repos\GymGold\Datos\obj\Debug\Datos.dll
+C:\Users\Waiwa\source\repos\GymGold\Datos\obj\Debug\Datos.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Datos\bin\Debug\Datos.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Datos\bin\Debug\Datos.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Datos\bin\Debug\Soporte.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Datos\bin\Debug\Soporte.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Datos\obj\Debug\Datos.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Datos\obj\Debug\Datos.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Datos\bin\Debug\Datos.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Datos\bin\Debug\Datos.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Datos\bin\Debug\Soporte.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Datos\bin\Debug\Soporte.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Datos\obj\Debug\Datos.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Datos\obj\Debug\Datos.pdb

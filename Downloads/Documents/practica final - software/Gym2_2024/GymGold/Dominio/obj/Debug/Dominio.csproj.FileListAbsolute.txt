@@ -1,0 +1,33 @@
+C:\Users\Waiwa\source\repos\GymGold\Dominio\bin\Debug\Dominio.dll
+C:\Users\Waiwa\source\repos\GymGold\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Waiwa\source\repos\GymGold\Dominio\bin\Debug\Datos.dll
+C:\Users\Waiwa\source\repos\GymGold\Dominio\bin\Debug\Soporte.dll
+C:\Users\Waiwa\source\repos\GymGold\Dominio\bin\Debug\Datos.pdb
+C:\Users\Waiwa\source\repos\GymGold\Dominio\bin\Debug\Soporte.pdb
+C:\Users\Waiwa\source\repos\GymGold\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Waiwa\source\repos\GymGold\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Waiwa\source\repos\GymGold\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Waiwa\source\repos\GymGold\Dominio\obj\Debug\Dominio.dll
+C:\Users\Waiwa\source\repos\GymGold\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\bin\Debug\Dominio.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\bin\Debug\Datos.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\bin\Debug\Soporte.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\bin\Debug\Datos.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\bin\Debug\Soporte.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\obj\Debug\Dominio.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\bin\Debug\Dominio.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\bin\Debug\Datos.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\bin\Debug\Soporte.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\bin\Debug\Datos.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\bin\Debug\Soporte.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\obj\Debug\Dominio.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Dominio\obj\Debug\Dominio.pdb

@@ -1,0 +1,81 @@
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Soporte.dll
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Datos.dll
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Soporte.pdb
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.UsuariosForm.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.ListaUsuarios.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.ClientesForm.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.ListaClientes.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.MembresiaForms.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.ListaMembresias.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.AsignacionMembresias.resources
+C:\Users\Waiwa\source\repos\GymGold\Presentacion\obj\Debug\Presentacion.AsignacionLista.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Soporte.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Datos.dll
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Soporte.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.AsignacionLista.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.AsignacionMembresias.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.ClientesForm.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.ListaClientes.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.ListaMembresias.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.ListaUsuarios.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.MembresiaForms.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.UsuariosForm.resources
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Victo\Downloads\Gym2_2023\GymGold\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Guna.UI2.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Soporte.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Datos.dll
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Soporte.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.AsignacionLista.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.AsignacionMembresias.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.ClientesForm.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.ListaClientes.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.ListaMembresias.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.ListaUsuarios.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.MembresiaForms.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.UsuariosForm.resources
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Victo\Downloads\Documents\practica final - software\Gym2_2024\GymGold\Presentacion\obj\Debug\Presentacion.pdb
